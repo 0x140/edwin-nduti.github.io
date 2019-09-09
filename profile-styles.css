@@ -1,0 +1,118 @@
+/*header*/
+
+    /*div1*/
+
+    .first_hr{width:98%;
+              border:2px solid;
+              border-top-color:#FF0000;
+              border-bottom-color:000000;}
+
+    /*coverimg*/
+
+    .coverimg{position:absolute;
+              left:525px;
+              border:1px;
+              border-radius:180px;
+              height:300px;
+              margin-top:30px;}
+
+    /*heading part*/  /*was at first orange,brown,black*/
+
+    .header{background:radial-gradient(blueviolet,cornflowerblue,black);
+            height:440px;
+            border-radius:15px;}
+
+
+     
+/*Main*/
+
+    /*center part*/
+
+    .central{background-color:silver;
+             height:1000px;
+             border-radius:9px;}
+    
+    /*nav1*/
+
+    .nav1{background-color:chartreuse;
+          border:1px;
+          margin:4px;
+          height:80px;
+          box-shadow:0px 0px 20px gray;}
+          
+    .nav1 ul{list-style:none;}
+    
+    .nav1 ul li{float:left;
+                width:300px;
+                font-size:30pt;
+                padding:12px;
+                padding-left:0px;
+                text-align:center;
+                border-bottom:2px;
+                color:black;
+                }
+                
+    .nav1 ul li:hover{background:white;
+                      color:blue;
+                      border-bottom:8px solid black;
+                      }
+          
+      /*my ID image*/
+      
+      #edwinImage{height:290px;
+                  width:290px;
+                  transform:rotate(360deg);
+                  border-radius:30px;
+                  border-color:black;
+                  margin-left:50px;
+                  float:left;
+                  padding:20px;
+                 }
+          
+       /*profile*/   
+          
+       .description{margin-top:-40px;
+                    padding-left:32px;
+                    padding-right:6px;
+                    font-size:20pt;
+                    font-weight:480;
+                    width:900px;
+                    float:left;
+                    }   
+                    
+       /*horizontal_line*/
+       
+       .horizontal_line{width:80%;
+                        margin-top:200px;
+                        color:blueviolet;
+                        }            
+       
+       /*sub-profiles*/
+       
+       .sub_profiles{border:3px;
+                     margin-left:30px;
+                     width:400px;
+                     margin-top:50px;
+                     height:450px;
+                     border-right-style:dotted;
+                     border-left-style:dotted;
+                     float:left;
+                     text-align:center;
+                     font-size:19px;
+                    }          
+
+         
+                    
+/*Footer*/
+
+    /*footer*/
+
+    .foot{background:linear-gradient(darkslateblue,darkorchid,indigo);
+          border:0px;
+          height:49px;
+          }
+
+
+     .textposition{
+                   text-align:center;
+                   }

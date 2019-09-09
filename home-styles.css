@@ -1,0 +1,76 @@
+/*header*/
+
+    /*div1*/
+
+    #first_hr{width:98%;
+              border:2px solid;
+              border-top-color:#FF0000;
+              border-bottom-color:000000;}
+
+    /*coverimg*/
+
+    #coverimg{position:absolute;
+              left:525px;
+              border:1px;
+              border-radius:180px;
+              height:300px;
+              margin-top:30px;}
+
+    /*heading part*/  /*was at first orange,brown,black*/
+
+    #header{background:radial-gradient(blueviolet,cornflowerblue,black);
+            height:440px;
+            border-radius:15px;}
+
+     
+/*Main*/
+
+    /*center part*/
+
+    .central{background-color:silver;
+             height:1100px;
+             border-radius:9px;}
+    
+    /*nav1*/
+
+    #nav1{background-color:chartreuse;
+          border:1px;
+          margin:4px;
+          height:80px;
+          box-shadow:0px 0px 20px gray;}
+          
+    #nav1 ul{list-style:none;}
+    
+    #nav1 ul li{float:left;
+                width:300px;
+                font-size:30pt;
+                padding:12px;
+                padding-left:0px;
+                text-align:center;
+                border-bottom:2px;
+                color:black;
+                }
+                
+    #nav1 ul li:hover{background:white;
+                      color:blue;
+                      border-bottom:8px solid black;
+                      }   
+                      
+     /*starting_text*/
+     
+     .starting_text{margin:10px 10%;
+                    font-size:16pt;
+                   }
+
+     
+/*Footer*/
+
+    /*footer*/
+
+    .foot{background:linear-gradient(darkslateblue,darkorchid,indigo);
+          border:0px !important;
+          height:19px;
+          text-align:center;
+          }
+
+
