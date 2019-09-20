@@ -14,12 +14,12 @@
               border:1px;
               border-radius:180px;
               height:300px;
-              margin-top:30px;}
+              margin-top:15px;}
 
     /*heading part*/  /*was at first orange,brown,black*/
 
     .header{background:radial-gradient(blueviolet,cornflowerblue,black);
-            height:440px;
+            height:340px;
             border-radius:15px;}
 
 
@@ -46,7 +46,7 @@
                 width:300px;
                 font-size:30pt;
                 padding:12px;
-                padding-left:0px;
+                padding-left:75px;
                 text-align:center;
                 border-bottom:2px;
                 color:black;

@@ -14,12 +14,12 @@
               border:1px;
               border-radius:180px;
               height:300px;
-              margin-top:30px;}
+              margin-top:15px;}
 
     /*heading part*/  /*was at first orange,brown,black*/
 
     .header{background:radial-gradient(blueviolet,cornflowerblue,black);
-            height:440px;
+            height:340px;
             border-radius:15px;}
 
 
@@ -44,7 +44,7 @@
                 width:300px;
                 font-size:30pt;
                 padding:12px;
-                padding-left:0px;
+                padding-left:75px;
                 text-align:center;
                 border-bottom:2px;
                 color:black;
@@ -59,12 +59,12 @@
         #footwordsize{font-size:18pt;}
         
      /*background image*/
-      .background_image{height:70px;}
+      .background_image{height:110px;}
       
     /*contacts*/
     
       .contacts{position:absolute;
-                margin-top:50px;
+                margin-top:390px;
                 margin-left:20px; 
                } 
                  
@@ -74,6 +74,6 @@
      #cfoot{position:relative;
             margin-top:490px;}
      
-     .textposition{
+     .textposition{margin-top:960px;
                    text-align:center;
                    }
