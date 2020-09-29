@@ -7,4 +7,4 @@ It was not responsive but at least it worked😒
 
 Made with pure HTML and CSS.
 
-Enjoy it [here](https://edwin-nduti.github.io/first-site)
+Enjoy it [here](https://edwinnduti.github.io/first-site)
